@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 <!doctype html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -8,71 +7,50 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
+    <header>
+      <h1>🎨 Paleta de colores</h1>
+      <p>Genera una combinación inspiradora y armónica para tus proyectos o trabajos.</p>
+    </header>
+
     <main>
-      <h1>Paleta de colores</h1>
+      <!-- Controles -->
+      <section class="controles" style="border: 1px solid rgb(199, 189, 189); padding: 10px; margin: 10px">
+        <label for="select-cantidad">Cantidad de colores:</label>
+        <select id="select-cantidad">
+          <option value="6">6 colores</option>
+          <option value="8">8 colores</option>
+          <option value="9">9 colores</option>
+        </select>
+
+        <label for="select-formato">Formato de código:</label>
+        <select id="select-formato">
+          <option value="hex">HEX</option>
+          <option value="hsl">HSL</option>
+        </select>
+
+        <button id="btn-generar">GENERAR PALETA</button>
+        <button id="btn-guardar">GUARDAR PALETAS</button>
+      </section> 
+    
+      <!-- Contenedor donde se ven los colores principales -->
+      <div class="paleta-grid" id="paleta-grid"></div>
+
+      <!-- Sección de Paletas Guardadas -->
+      <section class="seccion-guardadas" style="margin-top: 2rem;">
+        <h2>Paletas Guardadas</h2>
+        <div id="paletas-guardadas-grid"></div>
+      </section>
     </main>
-    <!-- CONTROLES -->
-    <div class="controles" style="border: 1px solid black; padding: 10px; margin: 10px">
-      <label for="select-cantidad">Cantidad de colores:</label>
-      <select id="select-cantidad">
-        <option value="6">6 colores</option>
-        <option value="8">8 colores</option>
-        <option value="9">9 colores</option>
-      </select>
 
-      <label for="select-formato">Formato de codigo:</label>
-      <select id="select-formato">
-        <option value="hex">HEX</option>
-        <option value="hsl">HSL</option>
-      </select>
+    <!-- Notificación visual -->
+    <div id="toast" class="toast">¡Código copiado!</div>
 
-      <button id="btn-generar">GENERAR PALETA</button>
-    </div> 
+    <!-- Pie de página (Footer) -->
 
-    <!-- PALETAS DE COLORES-->
-    <div style="border: 1px solid black; padding: 10px; margin: 10px"></div>
-
-    <div style="border: 1px solid black; padding: 5px; margin: 5px"></div>
+    <footer>
+      <p> © 2026 | Estefania Valbuena Rincon </p>
+    </footer>
 
     <script src="app.js"></script>
   </body>
-=======
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Paleta de colores</title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
-    <main>
-      <h1>Paleta de colores</h1>
-    </main>
-    <!-- CONTROLES -->
-    <div class="controles" style="border: 1px solid black; padding: 10px; margin: 10px">
-      <label for="select-cantidad">Cantidad de colores:</label>
-      <select id="select-cantidad">
-        <option value="6">6 colores</option>
-        <option value="8">8 colores</option>
-        <option value="9">9 colores</option>
-      </select>
-
-      <label for="select-formato">Formato de codigo:</label>
-      <select id="select-formato">
-        <option value="hex">HEX</option>
-        <option value="hsl">HSL</option>
-      </select>
-
-      <button id="btn-generar">GENERAR PALETA</button>
-    </div> 
-
-    <!-- PALETAS DE COLORES-->
-    <div style="border: 1px solid black; padding: 10px; margin: 10px"></div>
-
-    <div style="border: 1px solid black; padding: 5px; margin: 5px"></div>
-
-    <script src="app.js"></script>
-  </body>
->>>>>>> f73d88e5632b6d8424dff54bd27b0035a3567852
 </html>
