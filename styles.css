@@ -7,7 +7,7 @@
 
 body {
   font-family: sans-serif;
-  padding: 2 rem;
+  padding: 2rem;
   background-color: #e2e9e1;
 }
 header{
@@ -16,7 +16,7 @@ header{
 }
 
 h1 {
-  margin-bottom: 1.5 rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -183,7 +183,7 @@ main {
 
 /* Notificación flotante (Toast) */
 .toast {
-    position: center;
+    position: fixed;
     bottom: 20px;
     right: 20px;
     background: #090808;
