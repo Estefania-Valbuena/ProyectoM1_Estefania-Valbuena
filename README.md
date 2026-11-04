@@ -31,7 +31,7 @@ Paleta de Colores 🎨
 ## 📱 Demostración de la Aplicación
 
 <p align="center">
-  <img src="./demo.gif" alt="Demostración de la App" width="100%">
+  <img src="./evidencia.img/demo.gif" alt="Demostración de la App" width="100%">
 </p>
 
 ---
@@ -43,7 +43,7 @@ Paleta de Colores 🎨
 ## Demostración Maquetación y Estructura (HTML5)
 
 <p align="center">
-  <img src="./html.gif" alt="Demostración HTML" width="100%">
+  <img src="./evidencia.img/./html.gif" alt="Demostración HTML" width="100%">
 </p>
 
 ---
@@ -55,7 +55,7 @@ Paleta de Colores 🎨
 ## Demostración del diseño Visual y Estilos (CSS3)
 
 <p align="center">
-  <img src="./CSS.gif" alt="Demostración CSS" width="100%">
+  <img src="./evidencia.img/./CSS.gif" alt="Demostración CSS" width="100%">
 </p>
 
 ### 4. Lógica de Programación e Interactividad (JavaScript)
@@ -66,7 +66,7 @@ Paleta de Colores 🎨
 ## Demostración Lógica de Programación e Interactividad (JavaScript)
 
 <p align="center">
-  <img src="./JS.gif" alt="Demostración JS" width="100%">
+  <img src="./evidencia.img/./JS.gif" alt="Demostración JS" width="100%">
 </p>
 
 ### 5. Control de Versiones y Despliegue (Git & GitHub Pages)
@@ -113,3 +113,21 @@ Si deseas probar el proyecto directamente en tu computadora:
 
 Estefania Valbuena Rincon
 
+
+🤖 Declaración sobre el uso de Inteligencia Artificial
+
+
+Para el desarrollo de este proyecto se contó con la asistencia de Inteligencia Artificial (IA) como herramienta de apoyo y aprendizaje. Asimismo, se interactuó con el fin de obtener guía sobre las dudas o inquietudes planteadas en las siguientes áreas específicas:
+
+Lógica de Generación y Selección de Colores: Asistencia en la estructuración de las funciones en JavaScript para la generación aleatoria de códigos HEX (mediante manipulación de cadenas y selección de índices aleatorios) y valores HSL (delimitando rangos de saturación y luminosidad para asegurar tonos visualmente atractivos), así como la implementación del selector central para alternar dinámicamente entre formatos.
+
+<p align="center">
+  <img src="./evidencia.img/Formato.1.png" alt="Paso 1" width="100%">
+  <img src="./evidencia.img/Formato.2.png" alt="Paso 2" width="100%">
+  <img src="./evidencia.img/Formato.3.png" alt="Paso 3" width="100%">
+  <img src="./evidencia.img/Formato.4.png" alt="Paso 4" width="100%">
+</p>
+
+
+
+*Nota: Todo el código sugerido por la herramienta fue revisado se genero implementación  al realizar la prueba  se interpreto manualmente y se verifico debidoo a que se debia comprobar un correcto funcionamiento, teniendo en cuenta que la ejecución podria presentar fallas debido a que no es solo copiarlo si no comprenderlo. Si bien no se tiene todo el conocimiento se intenta respetar lo indicado pero al presentar dudas o fallas la IA es una herramiento que en ocasiones mitiga errores que pasamos por algo o nos ayuda a ejecutar una función en la cual presentamos bloqueo o fallas.

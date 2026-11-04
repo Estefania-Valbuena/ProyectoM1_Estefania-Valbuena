@@ -106,7 +106,7 @@ function mostrarToast(mensaje) {
     }, 2000);
 }
 
-// 6. Event Listeners (¡Aquí estaba el error del 'map' en vez de 'change'!)
+// 6. Event Listeners 
 btnGenerar.addEventListener('click', generarPaleta);
 selectCantidad.addEventListener('change', generarPaleta);
 selectFormato.addEventListener('change', () => {
