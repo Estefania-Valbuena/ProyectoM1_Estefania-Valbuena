@@ -31,7 +31,7 @@ Paleta de Colores 🎨
 ## 📱 Demostración de la Aplicación
 
 <p align="center">
-  <img src="./evidencia.img/Demo.gif" alt="Demostración de la App" width="100%">
+  <img src="./evidencia.img/demo.gif" alt="Demostración de la App" width="100%">
 </p>
 
 ---
@@ -42,8 +42,8 @@ Paleta de Colores 🎨
 
 ## Demostración Maquetación y Estructura (HTML5)
 
-<p align="center">
-  <img src="./evidencia.img/./html.gif" alt="Demostración HTML" width="100%">
+<<p align="center">
+  <img src="./evidencia.img/html.gif" alt="Demostración HTML" width="100%">
 </p>
 
 ---
@@ -117,10 +117,10 @@ Para el desarrollo de este proyecto se contó con la asistencia de Inteligencia 
 * **Lógica de Generación y Selección de Colores:** Asistencia en la estructuración de las funciones en JavaScript para la generación aleatoria de códigos HEX (mediante manipulación de cadenas y selección de índices aleatorios) y valores HSL (delimitando rangos de saturación y luminosidad para asegurar tonos visualmente atractivos), así como la implementación del selector central para alternar dinámicamente entre formatos[cite: 3].
 
 <p align="center">
-  <img src="./evidencia.img/formato.1.png" alt="Paso 1" width="100%">
-  <img src="./evidencia.img/formato.2.png" alt="Paso 2" width="100%">
-  <img src="./evidencia.img/formato.3.png" alt="Paso 3" width="100%">
-  <img src="./evidencia.img/formato.4.png" alt="Paso 4" width="100%">
+  <img src="./evidencia.img/Formato.1.png" alt="Paso 1" width="100%">
+  <img src="./evidencia.img/Formato.2.png" alt="Paso 2" width="100%">
+  <img src="./evidencia.img/Formato.3.png" alt="Paso 3" width="100%">
+  <img src="./evidencia.img/Formato.4.png" alt="Paso 4" width="100%">
 </p>
 
 ---
