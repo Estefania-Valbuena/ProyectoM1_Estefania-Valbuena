@@ -5,7 +5,7 @@ Paleta de Colores 🎨
 > "Genera una combinación inspiradora y armónica para tus proyectos o trabajos."
 
 ## Para ver el proyecto ingresa al (DEMO)
-👉 [https://estefania-valbuena.github.io/ProyectoM1_Estefania-Valbuena/](https://estefania-valbuena.github.io/ProyectoM1_Estefania-Valbuena/)
+👉 [https://estefania-valbuena.github.io/ProyectoM1_Estefania-Valbuena/]
 
 ---
 
@@ -106,7 +106,7 @@ Si deseas probar el proyecto directamente en tu computadora:
 
 1. Clona este repositorio abriendo tu terminal:
    ```bash
-   git clone https://github.com/Estefania-Valbuena/ProyectoM1_Estefania-Valbuena.git 
+   git clone  https://github.com/Estefania-Valbuena/ProyectoM1_Estefania-Valbuena.git
 --- 
 
 
@@ -141,8 +141,12 @@ Durante este proceso, el apoyo de la herramienta permitió detectar errores de r
   <img src="./evidencia.img/mantener formato.gif" alt="Mantener formato" width="100%">
 </p>
 
-*Nota importante sobre el uso de la IA:* **No todo lo sugerido por la herramienta se implementó de forma directa.** Si bien la IA compartió información y escaneó fragmentos de código, esto no determina por sí solo la utilidad práctica ni el comportamiento real de la aplicación. Cada recomendación fue leída, interpretada y analizada sopesando sus pros y contras. Aquellas sugerencias que no se adaptaron se descartaron o se reservaron para futuras mejoras, entendiendo que el código requiere ser comprendido a fondo y no un simple "copiar y pegar". Aunque el conocimiento técnico está en constante construcción, la IA actúa como un puente para mitigar bloqueos, corregir errores inadvertidos y afianzar la lógica del programa.
+Criterio Humano y Autoría del Código
 
+Es importante destacar que el uso de la IA se enmarcó dentro de un proceso de validación crítica y análisis activo:
+1. Filtro y Análisis: Ninguna sugerencia o fragmento de código proporcionado por Gemini se implementó de forma automática o mediante un simple "copiar y pegar". Cada recomendación fue leída, evaluada sopesando sus pros y contras, y adaptada a la arquitectura del proyecto.
+2. Descarte de Opciones: Aquellas soluciones que no se ajustaban a los objetivos de diseño o rendimiento se descartaron o se dejaron reservadas para futuras iteraciones.
+3. Rol de la Herramienta: La IA funcionó como un puente para destrabar bloqueos lógicos, mitigar errores de tipeo y afianzar conceptos de programación, siendo la autora y responsable final de la toma de decisiones, la estructura y la lógica del código Estefania Valbuena.
 
 
 ---

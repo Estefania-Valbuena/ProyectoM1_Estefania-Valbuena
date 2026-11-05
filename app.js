@@ -12,9 +12,8 @@ let paletaActual = [];
 function convertirHexAHsl(hex) {
     // 1. Limpiamos el # del inicio
     hex = hex.replace(/^#/, '');
-}
 
-    // Mitigación: Expandir HEX de 3 dígitos (ej: #FFF -> #FFFFFF) para evitar NaN Sugerido por la IA
+    // Mitigación: Expandir HEX de 3 dígitos (ej: #FFF -> #FFFFFF) para evitar NaN
     if (hex.length === 3) {
         hex = hex.split('').map(char => char + char).join('');
     }
@@ -129,7 +128,6 @@ function renderizarPaleta() {
     const formatoActual = selectFormato.value;
 
     paletaActual.forEach((item, index) => {
-        // Obtenemos el texto visual convirtiendo el colorBase al formato actual
         const colorVisual = obtenerColorFormateado(item.colorBase, formatoActual);
 
         const tarjeta = document.createElement('div');
