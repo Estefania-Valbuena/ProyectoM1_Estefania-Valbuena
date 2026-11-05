@@ -189,7 +189,7 @@ main {
     background: #090808;
     color: #ffffff;
     padding: 0.8rem 1.5rem;
-    border-radius: 8 px;
+    border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.2);
     opacity: 0;
     transform: translateY(20px);

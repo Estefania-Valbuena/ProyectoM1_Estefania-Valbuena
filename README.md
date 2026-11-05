@@ -110,37 +110,43 @@ Si deseas probar el proyecto directamente en tu computadora:
 --- 
 
 
-## 🤖 Declaración sobre el uso de Inteligencia Artificial
+### 🤖 Declaración sobre el uso de Inteligencia Artificial
 
+Para el desarrollo de este proyecto se contó con la asistencia de Inteligencia Artificial (IA) como herramienta de apoyo y aprendizaje[cite: 3]. Asimismo, se interactuó con el fin de obtener guía sobre las dudas o inquietudes planteadas en las siguientes áreas específicas[cite: 3]:
 
-Para el desarrollo de este proyecto se contó con la asistencia de Inteligencia Artificial (IA) como herramienta de apoyo y aprendizaje. Asimismo, se interactuó con el fin de obtener guía sobre las dudas o inquietudes planteadas en las siguientes áreas específicas:
-
-Lógica de Generación y Selección de Colores: Asistencia en la estructuración de las funciones en JavaScript para la generación aleatoria de códigos HEX (mediante manipulación de cadenas y selección de índices aleatorios) y valores HSL (delimitando rangos de saturación y luminosidad para asegurar tonos visualmente atractivos), así como la implementación del selector central para alternar dinámicamente entre formatos.
+* **Lógica de Generación y Selección de Colores:** Asistencia en la estructuración de las funciones en JavaScript para la generación aleatoria de códigos HEX (mediante manipulación de cadenas y selección de índices aleatorios) y valores HSL (delimitando rangos de saturación y luminosidad para asegurar tonos visualmente atractivos), así como la implementación del selector central para alternar dinámicamente entre formatos[cite: 3].
 
 <p align="center">
-  <img src="./evidencia.img/Formato.1.png" alt="Paso 1" width="100%">
-  <img src="./evidencia.img/Formato.2.png" alt="Paso 2" width="100%">
-  <img src="./evidencia.img/Formato.3.png" alt="Paso 3" width="100%">
-  <img src="./evidencia.img/Formato.4.png" alt="Paso 4" width="100%">
+  <img src="./evidencia.img/formato.1.png" alt="Paso 1" width="100%">
+  <img src="./evidencia.img/formato.2.png" alt="Paso 2" width="100%">
+  <img src="./evidencia.img/formato.3.png" alt="Paso 3" width="100%">
+  <img src="./evidencia.img/formato.4.png" alt="Paso 4" width="100%">
 </p>
 
-Control de Calidad con IA
+---
+
+### Control de Calidad con IA 🦾
 
 Durante el desarrollo de **Proyecto-M1**, se implementó un proceso de revisión y optimización de código CSS3 asistido por Inteligencia Artificial para:
-* **Auditoría de Sintaxis CSS:** Identificación y corrección de espacios inválidos en unidades de medida (`rem`, `px`), nombres de selectores (`.controles` vs `.controls`), y reseteos universales.
-* **Refactorización Limpia:** Validación de buenas prácticas en selectores CSS Grid y Flexbox para asegurar una maquetación fluida y sin fallos de renderizado.
+- **Auditoría de Sintaxis CSS:** Identificación y corrección de espacios inválidos en unidades de medida (`rem`, `px`), nombres de selectores (`.controles` vs `.controls`), y reseteos universales.
+- **Refactorización Limpia:** Validación de buenas prácticas en selectores CSS Grid y Flexbox para asegurar una maquetación fluida y sin fallos de renderizado.
 
 <p align="center">
-  <img src="./evidencia.img/revisioncss.gif" alt="Paso 1" width="100%">
-  </p>
+  <img src="./evidencia.img/revisioncss.gif" alt="Auditoría CSS" width="100%">
+</p>
 
-Se detecta que se presento varios errores de redacción lo ideal es tener el apoyo con el fin de ir mitigando los errores que se pueden presentaar. La IA Geminai  nos da un apoyo  que en ocasiones omitimos siendo cosas basicas que pasamos por alto. 
+Durante este proceso, el apoyo de la herramienta permitió detectar errores de redacción, mitigar detalles que solemos pasar por alto y ajustar la lógica de JavaScript para asegurar que al cambiar el formato de color la paleta mantenga sus tonos intactos.
 
-*Nota: Todo el código sugerido por la herramienta fue revisado se genero implementación  al realizar la prueba  se interpreto manualmente y se verifico debidoo a que se debia comprobar un correcto funcionamiento, teniendo en cuenta que la ejecución podria presentar fallas debido a que no es solo copiarlo si no comprenderlo. Si bien no se tiene todo el conocimiento se intenta respetar lo indicado pero al presentar dudas o fallas la IA es una herramiento que en ocasiones mitiga errores que pasamos por algo o nos ayuda a ejecutar una función en la cual presentamos bloqueo o fallas.
+<p align="center">
+  <img src="./evidencia.img/mantener formato.gif" alt="Mantener formato" width="100%">
+</p>
+
+*Nota importante sobre el uso de la IA:* **No todo lo sugerido por la herramienta se implementó de forma directa.** Si bien la IA compartió información y escaneó fragmentos de código, esto no determina por sí solo la utilidad práctica ni el comportamiento real de la aplicación. Cada recomendación fue leída, interpretada y analizada sopesando sus pros y contras. Aquellas sugerencias que no se adaptaron se descartaron o se reservaron para futuras mejoras, entendiendo que el código requiere ser comprendido a fondo y no un simple "copiar y pegar". Aunque el conocimiento técnico está en constante construcción, la IA actúa como un puente para mitigar bloqueos, corregir errores inadvertidos y afianzar la lógica del programa.
+
 
 
 ---
 
 ## ✍️ Autor
 
-Estefania Valbuena Rincon  https://github.com/Estefania-Valbuena
+Estefania Valbuena Rincon  
