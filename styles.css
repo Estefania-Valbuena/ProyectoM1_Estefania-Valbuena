@@ -51,8 +51,8 @@ main {
     border-color 0.2s,
     box-shadow 0.2s;
 }
-
-.controls select:hover {
+/* CORREGIDO: .controles en lugar de .controls para que coincida con tu HTML -  Adapcación de acurdo a la IA */
+.controles select:hover {
   border-color: #03649c;
 }
 
@@ -189,7 +189,7 @@ main {
     background: #090808;
     color: #ffffff;
     padding: 0.8rem 1.5rem;
-    border-radius: 8px;
+    border-radius: 8 px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.2);
     opacity: 0;
     transform: translateY(20px);

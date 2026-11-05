@@ -31,7 +31,7 @@ Paleta de Colores 🎨
 ## 📱 Demostración de la Aplicación
 
 <p align="center">
-  <img src="./evidencia.img/demo.gif" alt="Demostración de la App" width="100%">
+  <img src="./evidencia.img/Demo.gif" alt="Demostración de la App" width="100%">
 </p>
 
 ---
@@ -109,12 +109,8 @@ Si deseas probar el proyecto directamente en tu computadora:
    git clone https://github.com/Estefania-Valbuena/ProyectoM1_Estefania-Valbuena.git 
 --- 
 
-## ✍️ Autor
 
-Estefania Valbuena Rincon
-
-
-🤖 Declaración sobre el uso de Inteligencia Artificial
+## 🤖 Declaración sobre el uso de Inteligencia Artificial
 
 
 Para el desarrollo de este proyecto se contó con la asistencia de Inteligencia Artificial (IA) como herramienta de apoyo y aprendizaje. Asimismo, se interactuó con el fin de obtener guía sobre las dudas o inquietudes planteadas en las siguientes áreas específicas:
@@ -128,6 +124,23 @@ Lógica de Generación y Selección de Colores: Asistencia en la estructuración
   <img src="./evidencia.img/Formato.4.png" alt="Paso 4" width="100%">
 </p>
 
+Control de Calidad con IA
 
+Durante el desarrollo de **Proyecto-M1**, se implementó un proceso de revisión y optimización de código CSS3 asistido por Inteligencia Artificial para:
+* **Auditoría de Sintaxis CSS:** Identificación y corrección de espacios inválidos en unidades de medida (`rem`, `px`), nombres de selectores (`.controles` vs `.controls`), y reseteos universales.
+* **Refactorización Limpia:** Validación de buenas prácticas en selectores CSS Grid y Flexbox para asegurar una maquetación fluida y sin fallos de renderizado.
+
+<p align="center">
+  <img src="./evidencia.img/revisioncss.gif" alt="Paso 1" width="100%">
+  </p>
+
+Se detecta que se presento varios errores de redacción lo ideal es tener el apoyo con el fin de ir mitigando los errores que se pueden presentaar. La IA Geminai  nos da un apoyo  que en ocasiones omitimos siendo cosas basicas que pasamos por alto. 
 
 *Nota: Todo el código sugerido por la herramienta fue revisado se genero implementación  al realizar la prueba  se interpreto manualmente y se verifico debidoo a que se debia comprobar un correcto funcionamiento, teniendo en cuenta que la ejecución podria presentar fallas debido a que no es solo copiarlo si no comprenderlo. Si bien no se tiene todo el conocimiento se intenta respetar lo indicado pero al presentar dudas o fallas la IA es una herramiento que en ocasiones mitiga errores que pasamos por algo o nos ayuda a ejecutar una función en la cual presentamos bloqueo o fallas.
+
+
+---
+
+## ✍️ Autor
+
+Estefania Valbuena Rincon  https://github.com/Estefania-Valbuena
